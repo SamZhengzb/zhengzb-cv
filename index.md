@@ -9,7 +9,7 @@ homepage:
   text: samzhengzb.github.io
 ---
 
-# Zebin Zheng
+# **Zebin Zheng**
 
 <!--
 include contact information from the front matter
@@ -23,23 +23,23 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Southeast University** `2020.9 - now`
 
 ```
-Pittsburgh, PA
+Jiangsu, Nanjing
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. in Electronic Engineering
+- ASIC Center
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Xi’an University of Technology ** `2016.9 - 2020.7`
 
 ```
-New York, NY
+Shannxi, Xi'an
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- B.S. in Electronic Engineering
+- Department of Electronic Engineering
 
 ### **Dickinson College** `2013.9 - 2016.5`
 
