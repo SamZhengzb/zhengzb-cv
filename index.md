@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: zhengzb's cv
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: samzhengzb@gmail.com
+  text: samzhengzb@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: samzhengzb.github.io
+  text: samzhengzb.github.io
 ---
 
-# Wode **Ni**
+# Zebin Zheng
 
 <!--
 include contact information from the front matter
