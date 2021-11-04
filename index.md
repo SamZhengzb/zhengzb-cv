@@ -41,14 +41,6 @@ Shannxi, Xi'an
 - B.S. in Electronic Engineering
 - Department of Electronic Engineering
 
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
