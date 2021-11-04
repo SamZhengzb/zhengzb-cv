@@ -32,7 +32,7 @@ Jiangsu, Nanjing
 - Ph.D. in Electronic Engineering
 - ASIC Center
 
-### **Xi’an University of Technology ** `2016.9 - 2020.7`
+### **Xi’an University of Technology** `2016.9 - 2020.7`
 
 ```
 Shannxi, Xi'an
